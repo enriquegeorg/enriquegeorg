@@ -1,5 +1,5 @@
-## Olá me chamo Enrique :)
-## Um generalista apaixonado por tecnologia, mercado de valores e empreendedorismo
+## Olá, me chamo Enrique :)
+### Sou autentico, criativo, curioso, sonhador, adaptável, e, principalmente, apaixonado. Meu perfil é generalista, gosto de absorver conhecimentos diversos e olhar para as coisas de forma holística. Participei de 2 JEDI (https://www.joinvalle.com.br/jedi), 3 Startup Weekend (um deles como organizador) e dois hackatons internos. Sou apaixonado pelo ecossistema e indico demais a participação. Tenho 5 anos de experiência no mercado de tecnologia, desde a área de suporte, desenvolvimento até design. Experiência com Node, React, VueJS, Redux e bancos MySQL e Mongo além metodologias ágeis como Scrum e Kanban. Ultimo DISC feito (fev/2022): https://bit.ly/3B8IMrB
 <div align="center">
   <a href="https://github.com/enriquegeorg">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enriquegeorg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
